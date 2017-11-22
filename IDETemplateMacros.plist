@@ -5,8 +5,12 @@
 	<key>FILEHEADER</key>
 	<string>
 // ___PROJECTNAME___
-// Created by ___FULLUSERNAME___ on ___DATE___.
-// Copyright © ___YEAR___ ___ORGANIZATIONNAME___. All rights reserved.
-// </string>
+// ___FILENAME___
+// Created by ___FULLUSERNAME___ (___GITHUB___) on ___DATE___.
+// ___COPYRIGHT___</string>
+	<key>FULLUSERNAME</key>
+	<string>DouKing</string>
+	<key>GITHUB</key>
+	<string>https://github.com/DouKing</string>
 </dict>
 </plist>
