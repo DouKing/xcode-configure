@@ -6,3 +6,6 @@ cp ./*.dvtcolortheme $DIR
 cp ./*.xccolortheme $DIR
 
 cp ./IDETemplateMacros.plist ~/Library/Developer/Xcode/UserData/IDETemplateMacros.plist
+
+cp ./font/*.ttf ~/Library/Fonts/
+

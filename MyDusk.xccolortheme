@@ -19,7 +19,7 @@
 	<key>DVTConsoleExectuableInputTextFont</key>
 	<string>Ayuthaya - 12.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0.684146 0.684146 0.684146 1</string>
+	<string>0.999999 0.999974 0.999991 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>Ayuthaya - 12.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
@@ -31,7 +31,7 @@
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.12 0.31 0.34 1</string>
 	<key>DVTLineSpacing</key>
-	<real>1.2000000476837158</real>
+	<real>1.1000000238418579</real>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.18856 0.195 0.22444 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -68,6 +68,20 @@
 	<string>1 1 1 1</string>
 	<key>DVTMarkupTextStrongFont</key>
 	<string>.HelveticaNeueDeskInterface-Bold - 10.0</string>
+	<key>DVTScrollbarMarkerAnalyzerColor</key>
+	<string>0.403922 0.372549 1 1</string>
+	<key>DVTScrollbarMarkerBreakpointColor</key>
+	<string>0.290196 0.290196 0.968627 1</string>
+	<key>DVTScrollbarMarkerDiffColor</key>
+	<string>0.556863 0.556863 0.556863 1</string>
+	<key>DVTScrollbarMarkerDiffConflictColor</key>
+	<string>0.968627 0.290196 0.290196 1</string>
+	<key>DVTScrollbarMarkerErrorColor</key>
+	<string>0.968627 0.290196 0.290196 1</string>
+	<key>DVTScrollbarMarkerRuntimeIssueColor</key>
+	<string>0.643137 0.509804 1 1</string>
+	<key>DVTScrollbarMarkerWarningColor</key>
+	<string>0.937255 0.717647 0.34902 1</string>
 	<key>DVTSourceTextBackground</key>
 	<string>0.118 0.125 0.157 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
@@ -75,7 +89,7 @@
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
 	<string>0.140994 0.144155 0.145571 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>1 1 1 1</string>
+	<string>0.131345 0.999677 0.0236241 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextSelectionColor</key>
@@ -83,100 +97,100 @@
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>0.335 0.456 0.488 1</string>
+		<string>0.465867 0.637838 0.692684 1</string>
 		<key>xcode.syntax.character</key>
-		<string>0.469 0.426 0.77 1</string>
+		<string>0.594526 0.543675 0.998868 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.153804 0.404577 0.166688 1</string>
+		<string>0.0664367 0.501209 0.0098655 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.153804 0.404577 0.166688 1</string>
+		<string>0.0664367 0.501209 0.0098655 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.153804 0.404577 0.166688 1</string>
+		<string>0.0664367 0.501209 0.0098655 1</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>0.35323 0.516217 0.244472 1</string>
+		<string>0.394418 0.582904 0.278958 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.0574021 0.454215 0.543624 1</string>
+		<string>0.0638713 0.505458 0.60583 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.35323 0.516217 0.244472 1</string>
+		<string>0.394418 0.582904 0.278958 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.0574021 0.454215 0.543624 1</string>
+		<string>0.0638713 0.505458 0.60583 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.35323 0.516217 0.244472 1</string>
+		<string>0.394418 0.582904 0.278958 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.0574021 0.454215 0.543624 1</string>
+		<string>0.0638713 0.505458 0.60583 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>0.778 0.488 0.284 1</string>
+		<string>0.992241 0.61834 0.357157 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.778 0.488 0.284 1</string>
+		<string>0.992241 0.61834 0.357157 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0.35323 0.516217 0.244472 1</string>
+		<string>0.394418 0.582904 0.278958 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.0574021 0.454215 0.543624 1</string>
+		<string>0.0638713 0.505458 0.60583 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0.35323 0.516217 0.244472 1</string>
+		<string>0.394418 0.582904 0.278958 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.0574021 0.454215 0.543624 1</string>
+		<string>0.0638713 0.505458 0.60583 1</string>
 		<key>xcode.syntax.keyword</key>
-		<string>0.698 0.095 0.536 1</string>
+		<string>0.887265 0.089681 0.717158 1</string>
 		<key>xcode.syntax.number</key>
-		<string>0.469 0.426 0.77 1</string>
+		<string>0.594526 0.543675 0.998868 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.478491 0.484197 0.484081 1</string>
+		<string>0.648429 0.653545 0.671224 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.778 0.488 0.284 1</string>
+		<string>0.992241 0.61834 0.357157 1</string>
 		<key>xcode.syntax.string</key>
-		<string>0.859 0.171 0.219 1</string>
+		<string>0.780179 0.172241 0.227348 1</string>
 		<key>xcode.syntax.url</key>
-		<string>0.255 0.333 0.819 1</string>
+		<string>0.296884 0.388611 0.998474 1</string>
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.character</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.number</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.string</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 		<key>xcode.syntax.url</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>MicrosoftYaHeiMono - 15.0</string>
 	</dict>
 </dict>
 </plist>
