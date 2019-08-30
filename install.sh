@@ -8,4 +8,4 @@ cp ./*.xccolortheme $DIR
 cp ./IDETemplateMacros.plist ~/Library/Developer/Xcode/UserData/IDETemplateMacros.plist
 
 cp ./font/*.ttf ~/Library/Fonts/
-
+cp ./Secoo ~/Library/Developer/Xcode/Templates/File\ Templates/Secoo
