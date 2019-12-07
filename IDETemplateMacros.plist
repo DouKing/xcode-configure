@@ -6,8 +6,10 @@
 	<string>
 // ___PROJECTNAME___
 // ___FILENAME___
+//
 // Created by ___FULLUSERNAME___ (___GITHUB___) on ___DATE___.
-// ___COPYRIGHT___</string>
+// ___COPYRIGHT___
+// </string>
 	<key>FULLUSERNAME</key>
 	<string>DouKing</string>
 	<key>GITHUB</key>
