@@ -3,25 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>DVTConsoleDebuggerInputTextColor</key>
-	<string>1 0 1 1</string>
+	<string>0.848054 0.848028 0.848042 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>Ayuthaya - 12.0</string>
+	<string>InputMono-ThinItalic - 18.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>0 1 1 1</string>
+	<string>0.848054 0.848028 0.848042 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>Ayuthaya - 12.0</string>
+	<string>InputMono-ThinItalic - 18.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.255 0.714 0.27 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>Ayuthaya - 12.0</string>
+	<string>InputMono-ThinItalic - 18.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
-	<string>1 1 0 1</string>
+	<string>0.848054 0.848028 0.848042 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>Ayuthaya - 12.0</string>
+	<string>InputMono-ThinItalic - 18.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0.684146 0.684146 0.684146 1</string>
+	<string>0.848054 0.848028 0.848042 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>Ayuthaya - 12.0</string>
+	<string>InputMono-ThinItalic - 18.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.118 0.125 0.157 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -30,56 +30,74 @@
 	<string>0.397 0.397 0.302 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.12 0.31 0.34 1</string>
+	<key>DVTFontAndColorVersion</key>
+	<integer>1</integer>
+	<key>DVTFontSizeModifier</key>
+	<integer>2</integer>
 	<key>DVTLineSpacing</key>
-	<real>1.2000000476837158</real>
+	<real>1.1000000238418579</real>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.18856 0.195 0.22444 1</string>
 	<key>DVTMarkupTextBorderColor</key>
 	<string>0.253475 0.2594 0.286485 1</string>
 	<key>DVTMarkupTextCodeFont</key>
-	<string>SFMono-Regular - 10.0</string>
+	<string>SFMono-Regular - 12.0</string>
 	<key>DVTMarkupTextEmphasisColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
-	<string>.HelveticaNeueDeskInterface-Italic - 10.0</string>
+	<string>.SFNS-RegularItalic - 17.0</string>
 	<key>DVTMarkupTextInlineCodeColor</key>
 	<string>1 1 1 0.7</string>
 	<key>DVTMarkupTextLinkColor</key>
-	<string>0.255 0.333 0.819 1</string>
+	<string>0.33 0.247124 0.894195 1</string>
 	<key>DVTMarkupTextLinkFont</key>
-	<string>.HelveticaNeueDeskInterface-Regular - 10.0</string>
+	<string>.SFNS-Regular - 17.0</string>
 	<key>DVTMarkupTextNormalColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTMarkupTextNormalFont</key>
-	<string>.HelveticaNeueDeskInterface-Regular - 10.0</string>
+	<string>.SFNS-Regular - 17.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
 	<string>1 1 1 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.HelveticaNeueDeskInterface-Regular - 14.0</string>
+	<string>.SFNS-Regular - 23.8</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.HelveticaNeueDeskInterface-Regular - 24.0</string>
+	<string>.SFNS-Regular - 40.8</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.HelveticaNeueDeskInterface-Regular - 18.0</string>
+	<string>.SFNS-Regular - 30.6</string>
 	<key>DVTMarkupTextStrongColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTMarkupTextStrongFont</key>
-	<string>.HelveticaNeueDeskInterface-Bold - 10.0</string>
+	<string>.SFNS-Bold - 17.0</string>
+	<key>DVTScrollbarMarkerAnalyzerColor</key>
+	<string>0.403922 0.372549 1 1</string>
+	<key>DVTScrollbarMarkerBreakpointColor</key>
+	<string>0.290196 0.290196 0.968627 1</string>
+	<key>DVTScrollbarMarkerDiffColor</key>
+	<string>0.556863 0.556863 0.556863 1</string>
+	<key>DVTScrollbarMarkerDiffConflictColor</key>
+	<string>0.968627 0.290196 0.290196 1</string>
+	<key>DVTScrollbarMarkerErrorColor</key>
+	<string>0.968627 0.290196 0.290196 1</string>
+	<key>DVTScrollbarMarkerRuntimeIssueColor</key>
+	<string>0.643137 0.509804 1 1</string>
+	<key>DVTScrollbarMarkerWarningColor</key>
+	<string>0.937255 0.717647 0.34902 1</string>
 	<key>DVTSourceTextBackground</key>
 	<string>0.118 0.125 0.157 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0.140994 0.144155 0.145571 1</string>
+	<string>0.175116 0.175595 0.178208 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
-	<string>0.5 0.5 0.5 1</string>
+	<string>0.3 0.3 0.3 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.313188 0.303783 0.298088 1</string>
+	<string>0.329921 0.33234 0.289423 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
@@ -87,41 +105,49 @@
 		<key>xcode.syntax.character</key>
 		<string>0.469 0.426 0.77 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.153804 0.404577 0.166688 1</string>
+		<string>0.164542 0.485717 0.163086 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.153804 0.404577 0.166688 1</string>
+		<string>0.164542 0.485717 0.163086 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.153804 0.404577 0.166688 1</string>
+		<string>0.164542 0.485717 0.163086 1</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>0.254902 0.631373 0.752941 1</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>0.362946 0.846428 0.998966 1</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>0.35323 0.516217 0.244472 1</string>
+		<string>0.512 0.754 0.343 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.0574021 0.454215 0.543624 1</string>
+		<string>0 0.626 0.746 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.35323 0.516217 0.244472 1</string>
+		<string>0.512 0.754 0.343 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.0574021 0.454215 0.543624 1</string>
+		<string>0 0.626 0.746 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.35323 0.516217 0.244472 1</string>
+		<string>0.512 0.754 0.343 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.0574021 0.454215 0.543624 1</string>
+		<string>0 0.626 0.746 1</string>
 		<key>xcode.syntax.identifier.macro</key>
 		<string>0.778 0.488 0.284 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
 		<string>0.778 0.488 0.284 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0.35323 0.516217 0.244472 1</string>
+		<string>0.512 0.754 0.343 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.0574021 0.454215 0.543624 1</string>
+		<string>0 0.626 0.746 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0.35323 0.516217 0.244472 1</string>
+		<string>0.512 0.754 0.343 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.0574021 0.454215 0.543624 1</string>
+		<string>0 0.626 0.746 1</string>
 		<key>xcode.syntax.keyword</key>
-		<string>0.698 0.095 0.536 1</string>
+		<string>0.872903 0.105883 0.679002 1</string>
+		<key>xcode.syntax.mark</key>
+		<string>0.164542 0.485717 0.163086 1</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>0.665 0.052 0.569 1</string>
 		<key>xcode.syntax.number</key>
 		<string>0.469 0.426 0.77 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.478491 0.484197 0.484081 1</string>
+		<string>0.734746 0.745708 0.745482 1</string>
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.778 0.488 0.284 1</string>
 		<key>xcode.syntax.string</key>
@@ -132,51 +158,59 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 		<key>xcode.syntax.character</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-Italic - 18.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-Italic - 18.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-Italic - 18.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-Italic - 18.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
+		<key>xcode.syntax.mark</key>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 		<key>xcode.syntax.number</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 		<key>xcode.syntax.string</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 		<key>xcode.syntax.url</key>
-		<string>InputMono-LightItalic - 12.0</string>
+		<string>InputMono-ExtraLightItalic - 18.0</string>
 	</dict>
 </dict>
 </plist>
