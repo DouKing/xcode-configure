@@ -3,13 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>FILEHEADER</key>
-	<string>
-// ___PROJECTNAME___
-// ___FILENAME___
+	<string>===----------------------------------------------------------*- Swift -*-===//
 //
-// Created by ___FULLUSERNAME___ (___GITHUB___) on ___DATE___.
-// ___COPYRIGHT___
-// </string>
+// Created by ___FULLUSERNAME___ on ___DATE___.
+// Copyright © ___YEAR___ ___FULLUSERNAME___. All rights reserved.
+//
+//===----------------------------------------------------------------------===//</string>
+	<key>FILEHEADEROBJC</key>
+	<string>===----------------------------------------------------------*- Obj-C -*-===//
+//
+// Created by ___FULLUSERNAME___ on ___DATE___.
+// Copyright © ___YEAR___ ___FULLUSERNAME___. All rights reserved.
+//
+//===----------------------------------------------------------------------===//</string>
 	<key>FULLUSERNAME</key>
 	<string>DouKing</string>
 	<key>GITHUB</key>
