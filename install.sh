@@ -8,7 +8,7 @@ cp ./IDETemplateMacros.plist ~/Library/Developer/Xcode/UserData/IDETemplateMacro
 
 cp -R ./font ~/Library/Fonts/
 
-TEMPLATES_DIR=~/Library/Developer/Xcode/Templates/File\ Templates/DouKing
+TEMPLATES_DIR=~/Library/Developer/Xcode/Templates/File\ Templates/
 if [[ ! -d "${TEMPLATES_DIR}" ]]; then
 	mkdir -p "${TEMPLATES_DIR}"
 	cp -R ./DouKing "${TEMPLATES_DIR}"
